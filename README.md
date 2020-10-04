@@ -24,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
 
-[![My's github stats](https://github-readme-stats.vercel.app/api?username=iamAbhishekkumar&show_icons=truetheme=radical&hide=stars))](https://github.com/anuraghazra/github-readme-stats)
+[![My's github stats](https://github-readme-stats.vercel.app/api?username=iamAbhishekkumar&show_icons=truetheme=radical&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4><b><samp>Connect with me:</samp></b></h4>
 
