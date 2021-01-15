@@ -6,7 +6,7 @@
   
 ### <samp> About Me 🔭 
 - Member of [Codex](https://github.com/codex-iter) 
-- Learning Flutter
+- Flutter Dev
 - ML Enthusiast 🤖 
 - Pursuing BTech in Computer Science👨‍🎓
 </div>
