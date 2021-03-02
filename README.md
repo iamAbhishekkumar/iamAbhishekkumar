@@ -30,4 +30,4 @@
 
 [<img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/linkedin.png" width="40px">](https://www.linkedin.com/in/abhishek-kumar-531512176/)
 [<img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/instagram.png" width="40px">](https://www.instagram.com/im.abhishek.kumar/)
-[<img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/github.png" width="40px">](https://github.com/iamAbhishekkumar)
+
