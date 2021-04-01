@@ -5,11 +5,10 @@
 <img align="right" src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/computer.gif" width="40%"/>
   
 ### <samp> About Me 🔭 
-- Member of [Codex](https://github.com/codex-iter) 
-- Flutter Dev
-- Make games as hobby
-- ML Enthusiast 🤖 
+- Member of [Codex](https://github.com/codex-iter)
+- Learning Flutter
 - Pursuing BTech in Computer Science👨‍🎓
+
 </div>
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
