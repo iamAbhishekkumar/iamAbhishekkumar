@@ -39,6 +39,5 @@ Want to add this in your readme, [check this out](https://github.com/iamAbhishek
 
 [<img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/linkedin.png" width="40px">](https://www.linkedin.com/in/abhishek-kumar-531512176/)
 [<img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/instagram.png" width="40px">](https://www.instagram.com/__abhishek.kumar___/)
-[<img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/telegram.png" width="40px">](https://telegram.im/@imAbhishekkumar?lang=en) [<img src="https://github.com/iamAbhishekkumar/iamAbhishekkumar/blob/main/assets/hackerank.png" width="42px">](https://www.hackerrank.com/abhisonuk123)
-[<img src="https://github.com/iamAbhishekkumar/iamAbhishekkumar/blob/main/assets/leetcode.png" width="40px">](https://leetcode.com/abhisonuk123/)
+[<img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/telegram.png" width="40px">](https://telegram.im/@imAbhishekkumar?lang=en) 
   
