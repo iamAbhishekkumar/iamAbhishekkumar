@@ -25,6 +25,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white")
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <!-- ![Unity](https://img.shields.io/badge/Unity-grey?style=flat-square&logo=unity) -->
 
 [![My's github stats](https://github-readme-stats.vercel.app/api?username=iamAbhishekkumar&show_icons=truetheme=radical)](https://github.com/anuraghazra/github-readme-stats)
