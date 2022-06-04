@@ -1,4 +1,4 @@
-<p align="center"><samp><b> Hi there! <img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/hello.gif" width="25px"> </b></samp></p>
+<p align="center"><samp><b> Hi there! <img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/hello.gif" width="25"> </b></samp></p>
 <p align="center"><h1 align="center"><samp> I am Abhishek</samp></h1></p>
 <br>
 <div>
