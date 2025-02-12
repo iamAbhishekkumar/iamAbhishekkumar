@@ -10,9 +10,3 @@ I’m an engineer at Tata Elxsi, and I love diving into new technologies 💻�
 When I’m not coding, you’ll probably find me playing video games 🎮 or experimenting in the kitchen 🍳👨‍🍳. I believe in the power of collaboration 🤝 and enjoy bouncing ideas around with fellow tech enthusiasts. 💡
 
 Always on the lookout for my next learning adventure 📚🌍, I’m excited to connect with others who share a love for innovation and problem-solving. Let’s build something cool together! 🔧
-### Connect with me:
-
-[<img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/linkedin.png" width="40px">](https://www.linkedin.com/in/abhishek-kumar-531512176/)
-[<img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/instagram.png" width="40px">](https://www.instagram.com/__abhishek.kumar___/)
-[<img src="https://raw.githubusercontent.com/iamAbhishekkumar/iamAbhishekkumar/main/assets/telegram.png" width="40px">](https://telegram.im/@imAbhishekkumar?lang=en) 
-  
